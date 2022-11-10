@@ -19,5 +19,4 @@ To run this code: we have to run the RunnerClass.java file
 
 ExtentReports will be generated once we run the project and if there will be any error or failure then it will store the screenshot in the project folder.
 
-
 By- Vrinda Sharma
